@@ -1,6 +1,3 @@
-README.txt
-==========
-
 Pixel-Art Sprite Generation & Restoration
 DCGAN  +  U-Net Autoencoder
 Author: Deivid Ribeiro · 2025
